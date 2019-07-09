@@ -1,0 +1,16 @@
+{
+    "name": "sinso/locales",
+    "description": "Day-to-day labels for TYPO3 extensions.",
+    "type": "typo3-cms-extension",
+    "version": "0.0.1",
+    "homepage": "https://github.com/sinso/ext-locales",
+    "license": "GPL-2.0+",
+    "preferred-install": "dist",
+    "support": {
+        "issues": "https://github.com/sinso/ext-locales/issues"
+    },
+    "suggest": {
+    },
+    "require-dev": {
+    }
+}
